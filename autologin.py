@@ -62,7 +62,7 @@ def my_schedule():
                     time_now = int(datetime.now().strftime("%H%M"))
                     # print (f'class_time_a: {class_time_a}, class_time_b: {class_time_b}, time_now: {time_now}')
                     # print (time_now > class_time_a and time_now < class_time_b)
-                    if (time_now > class_time_a or time_now < class_time_b):
+                    if (time_now > class_time_a and time_now < class_time_b):
                         # print ('go to class')
                         # chrome_options.arguments.remove("--headless")
                         # time.sleep(2)
