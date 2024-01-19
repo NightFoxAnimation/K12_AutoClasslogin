@@ -8,7 +8,7 @@
         <h4 align="center">Just some guy</h4>
 
 # K12_AutoClasslogin
-### A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
+### Python script to effortlessly log in to your K12 (O.V.C.A) profile, identify if the class is optional or required, and seamlessly join the scheduled time.
 
 #### If you don't have python 
 
