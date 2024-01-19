@@ -7,6 +7,8 @@ Extract the ZIP file where you want it to run.
 
 Go to the extracted folder and right-click in the folder not on the files
 
+![](https://github.com/NightFoxAnimation/K12_AutoClasslogin/blob/main/expl.gif)
+
 Press "Open in Terminal" and copy paste this
 
     pip install -r requirements.txt
