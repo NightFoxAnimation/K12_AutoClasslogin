@@ -37,18 +37,6 @@ Locate the following section of code:
         email = 'UsernameHere'
         password = 'PasswordHere'
 
-        try:
-            login_email_field = driver.find_element(By.ID, 'okta-signin-username')
-            login_email_field.send_keys(email)
-            login_pass_field = driver.find_element(By.ID, 'okta-signin-password')
-            login_pass_field.send_keys(password)
-            login_log_field = driver.find_element(By.ID, 'okta-signin-submit')
-            login_log_field.click()
-        except:
-            print('no login needed')
-    
-        my_schedule()
-
 Replace 'YourUsername' with your K12 Username and 'YourPassword' with your password e.g. (password = 'ThisIsPassword')
 
 Save the file
@@ -100,7 +88,7 @@ Paste the shortcut into the Startup folder
 
 
 ## Notes
-- This is meant for windows
+- This is meant for windows 7 - 11
 - I am not completely sure this will work on another person's computer
 - If you notice it was working and now not. Close the terminal and start the script again
 
