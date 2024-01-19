@@ -11,6 +11,7 @@
 ### Simple Python script to effortlessly log in to your K12 (O.V.C.A) profile, identify if the class is optional or required, and seamlessly join the scheduled time.
 
 #### If you don't have python 
+https://www.python.org/downloads/
 
     Go to Python Downloads.
 
