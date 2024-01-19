@@ -10,6 +10,16 @@
 # K12_AutoClasslogin
 ### A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
 
+#### If you don't have python 
+
+    Go to Python Downloads.
+
+    Download the latest version of Python by clicking the "Download Python" button.
+
+    Follow the installation instructions for your operating system.
+
+#### Proceed with the setup after installing Python:
+
 Go to the Releases Page on the right and click the K12_AutoClasslogin.zip file.
 
 Extract the ZIP file where you want it to run. 
