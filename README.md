@@ -21,7 +21,7 @@ https://www.python.org/downloads/
 
 #### Proceed with the setup after installing Python:
 
-Go to the Releases Page on the right and click the K12_AutoClasslogin.zip file
+Go to the [Releases Page](https://github.com/NightFoxAnimation/K12_AutoClasslogin/releases/tag/New_Release) on the right and click the K12_AutoClasslogin.zip file
 
 Extract the ZIP file where you want it to run
 
