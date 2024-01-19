@@ -38,7 +38,7 @@ Locate the following section of code:
     
         my_schedule()
 
-Replace 'YourUsername' with your K12 Username and 'YourPassword' with your password.
+Replace 'YourUsername' with your K12 Username and 'YourPassword' with your password. e.g. (password = 'ThisIsPassword')
 
 Save the file.
 
