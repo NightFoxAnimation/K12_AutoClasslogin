@@ -1,7 +1,14 @@
-
+<h1 align="center">
+    <a href="https://github.com/NightFoxAnimation" target="_blank">
+        <img src="/stuff/NightFox%20new%20circle.png" width="224px" alt="Gabriel Amundson">
+            <br>
+            Gabriel Amundson
+            </a>
+        </h1>
+        <h4 align="center">Just some guy</h4>
 
 # K12_AutoClasslogin
-> A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
+### A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
 
 Go to <> Code and click download ZIP.
 
