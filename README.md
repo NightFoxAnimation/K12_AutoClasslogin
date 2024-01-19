@@ -1,5 +1,7 @@
+
+
 # K12_AutoClasslogin
-A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
+> A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
 
 Go to <> Code and click download ZIP.
 
