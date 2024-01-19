@@ -9,7 +9,7 @@ Extract the ZIP file where you want it to run.
 
 Go to the extracted folder and right-click in the folder not on the files
 
-![](https://github.com/NightFoxAnimation/K12_AutoClasslogin/blob/main/expl.gif)
+![](https://github.com/NightFoxAnimation/K12_AutoClasslogin/blob/main/stuff/expl%20(1).gif)
 
 Press "Open in Terminal" and paste then run the following command to install the required dependencies:
 
