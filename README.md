@@ -61,6 +61,8 @@ Save the file. Go back to the folder, and change the file extension from .txt to
 
 Right-click the new .bat document, select "Create Shortcut," and move the shortcut file to an easily accessible location, such as your desktop.
 
+![](/stuff/explorer_L6MoJQpGyA.gif)
+
 Double-click the shortcut, and it should run.
 
 
