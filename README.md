@@ -10,21 +10,49 @@
 # K12_AutoClasslogin
 ### A Python script automatically login to your k12 profile sees if the class is required or optional then joins if it is time
 
-Go to <> Code and click download ZIP.
+Go to the Releases Page on the right and click the K12_AutoClasslogin.zip file.
 
 Extract the ZIP file where you want it to run. 
 
-Go to the extracted folder and right-click in the folder not on the files
+Navigate to the extracted folder.
+
+Find the autologin.py file and open it in a notebook or your preferred Python editor.
+
+Locate the following section of code: 
+
+    def main():
+        driver.get('https://login.k12.com/')
+        time.sleep(5)
+        email = 'UsernameHere'
+        password = 'PasswordHere'
+
+        try:
+            login_email_field = driver.find_element(By.ID, 'okta-signin-username')
+            login_email_field.send_keys(email)
+            login_pass_field = driver.find_element(By.ID, 'okta-signin-password')
+            login_pass_field.send_keys(password)
+            login_log_field = driver.find_element(By.ID, 'okta-signin-submit')
+            login_log_field.click()
+        except:
+            print('no login needed')
+    
+        my_schedule()
+
+Replace 'YourUsername' with your K12 Username and 'YourPassword' with your password.
+
+Save the file.
+
+Go back to the extracted folder, right-click in the folder (not on the files), and select "Open in Terminal."
 
 ![](https://github.com/NightFoxAnimation/K12_AutoClasslogin/blob/main/stuff/expl%20(1).gif)
 
-Press "Open in Terminal" and paste then run the following command to install the required dependencies:
+Paste and run the following command to install the required dependencies:
 
     pip install -r requirements.txt
 
 After the installation is complete, navigate to the extracted folder, right-click, and create a new text document.
 
-Name the file as you prefer, enter it, and paste the following code:
+Name the file as you prefer, open it, and paste the following code:
 
     @echo off
     py autologin.py
