@@ -13,11 +13,11 @@
 #### If you don't have python 
 https://www.python.org/downloads/
 
-    Go to Python Downloads.
+    Go to Python Downloads
 
-    Download the latest version of Python by clicking the "Download Python" button.
+    Download the latest version of Python by clicking the "Download Python" button
 
-    Follow the installation instructions for your operating system.
+    Follow the installation instructions for your operating system
 
 #### Proceed with the setup after installing Python:
 
@@ -80,7 +80,7 @@ Click "OK"
 
 Press Win + R to open the Run dialog
 
-Type shell:startup and press Enter. This opens the Startup folder
+Type `shell:startup` and press Enter. This opens the Startup folder
 
 Copy the shortcut file
 
