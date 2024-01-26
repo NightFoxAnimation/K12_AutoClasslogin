@@ -31,11 +31,9 @@ Find the autologin.py file and open it in a notebook or your preferred Python ed
 
 Locate the following section of code: 
 
-    def main():
-        driver.get('https://login.k12.com/')
-        time.sleep(5)
-        email = 'UsernameHere'
-        password = 'PasswordHere'
+    # Put your username and password here
+    email = 'UsernameHere'
+    password = 'PasswordHere'
 
 Replace 'YourUsername' with your K12 Username and 'YourPassword' with your password e.g. (password = 'ThisIsPassword')
 
