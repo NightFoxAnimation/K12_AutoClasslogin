@@ -87,7 +87,6 @@ Paste the shortcut into the Startup folder
 
 ## Notes
 - This is meant for windows 7 - 11
-- I am not completely sure this will work on another person's computer
 - If you notice it was working and now not. Close the terminal and start the script again
 
 ## Issues
