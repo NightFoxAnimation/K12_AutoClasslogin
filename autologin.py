@@ -23,8 +23,9 @@ chrome_options.add_experimental_option("excludeSwitches", ['enable-automation'])
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--disable-infobars")
 driver = webdriver.Chrome(chrome_options)
-email = 'gamundson'
-password = 'Oklahoma2022'
+# Put your username and password here
+email = 'UsernameHere'
+password = 'PasswordHere'
 
 def login_to_stride(email, password):
     webbrowser.open('https://login.k12.com/', new=0, autoraise=True)
